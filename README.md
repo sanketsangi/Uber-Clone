@@ -1,9 +1,9 @@
-<h1 align="center">
-    <em>Uber-Clone</em>
-<h1>
+<div>
+    <h1 align="center">Uber Clone<h1>
 
 <div align="center">
-    <img src='./assets/Uber.png' alt='App Brand Icon'>
+    <img src='./assets/MoveWithSafety.png' alt='Move with Safety'>
+    <h6>Move with Safety</h1>
 <div>
 
 <p align='center'>
@@ -11,17 +11,18 @@
 <p>
 
 <br/>
+<div>
 
 ## 🧑🏻‍💻 Story
 
-Uber Clone is an app that allows users to search a place and create a ride request and get the estimated fare and provide best way to get to the destination.
+### Uber Clone is an app that allows users to search a place and create a ride request and get the estimated fare and provide best way to get to the destination.
 
 ## 📱 Snapshot
 
 <p>
-    <img src='./assets/HomeScreen.png' alt='Home Screen'>
-    <img src='./assets/MapScreen.png' alt='Map Screen' >
-    <img src='./assets/RideOptionCard.png' alt='Ride Option Card'>
+    <img src='./assets/HomeScreen.png' width="250">
+    <img src='./assets/MapScreen.png' width="250">
+    <img src='./assets/RideOptionCard.png' width="250">
 </p>
 
 ## 🍜 Ingredients
