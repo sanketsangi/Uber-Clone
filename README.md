@@ -1,3 +1,7 @@
+<p>
+    <a href="#snapshot">Snapshot</a>
+</p>
+
 <div>
     <h1 align="center">Uber Clone<h1>
 
@@ -17,7 +21,7 @@
 
 ### Uber Clone is an app that allows users to search a place and create a ride request and get the estimated fare and provide best way to get to the destination.
 
-## 📱 Snapshot
+## 📱 [Snapshot](#snapshot)
 
 <p>
     <img src='./assets/HomeScreen.png' width="250">
