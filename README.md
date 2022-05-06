@@ -2,8 +2,8 @@
     <a href="#snapshot">Snapshot</a>
 </p>
 
+[![Uber Clone Banner](./assets/Cover.png)](https://github.com/signuldotdev/Uber-Clone/blob/main/README.md)
 <div>
-    <h1 align="center">Uber Clone<h1>
 
 <div align="center">
     <img src='./assets/MoveWithSafety.png' alt='Move with Safety'>
