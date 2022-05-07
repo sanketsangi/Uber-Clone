@@ -1,33 +1,34 @@
-<p>
-    <a href="#snapshot">Snapshot</a>
-</p>
-
 [![Uber Clone Banner](./assets/Cover.png)](https://github.com/signuldotdev/Uber-Clone/blob/main/README.md)
+
 <div>
 
 <div align="center">
     <img src='./assets/MoveWithSafety.png' alt='Move with Safety'>
-    <h6>Move with Safety</h1>
-<div>
+    <h6>Move with Safety</h5>
+        Logo made using <a href='https://www.figma.com/'>Figma</a>
 
-<p align='center'>
-    Logo made using <a href='https://www.figma.com/'>Figma</a>
-<p>
+<div>
+<div>
 
 <br/>
-<div>
 
 ## 🧑🏻‍💻 Story
 
-### Uber Clone is an app that allows users to search a place and create a ride request and get the estimated fare and provide best way to get to the destination.
+### Uber Clone is an app that allows users to search a place and create a ride request and get the estimated fare and provide best way to get to the destination. Uber Clone uses the Google Maps API to get the estimated fare and provide the best way to get to the destination. This UI build using
 
-## 📱 [Snapshot](#snapshot)
+<br/>
+
+## 📱 Snapshot
 
 <p>
     <img src='./assets/HomeScreen.png' width="250">
     <img src='./assets/MapScreen.png' width="250">
     <img src='./assets/RideOptionCard.png' width="250">
 </p>
+
+<br/>
+
+<div align='left'>
 
 ## 🍜 Ingredients
 
@@ -38,6 +39,8 @@
 - [Google Cloud Platform](https://console.developers.google.com)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Redux](https://redux.js.org/)
+
+<div>
 
 ## 📝 License <a aria-label="YumMeals is free to use" href="https://choosealicense.com/licenses/mit/" target="_blank"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-success.svg?style=flat-square&color=33CC12" target="_blank" /></a>
 
