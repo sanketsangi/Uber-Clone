@@ -1,5 +1,7 @@
 [![Uber Clone Banner](./assets/Cover.png)](https://github.com/signuldotdev/Uber-Clone/blob/main/README.md)
 
+## Smoothly Animated Uber Clone build using React Native + Tailwindcss
+
 <div>
 
 <div align="center">
