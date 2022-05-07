@@ -14,9 +14,7 @@
 
 ## 🧑🏻‍💻 Story
 
-### Uber Clone is an app that allows users to search a place and create a ride request and get the estimated fare and provide best way to get to the destination. Uber Clone uses the Google Maps API to get the estimated fare and provide the best way to get to the destination. This UI build using
-
-<br/>
+### Uber Clone is an app that allows users to search a place and create a ride request and get the estimated fare and provide best way to get to the destination. Uber Clone uses the Google Maps API for Showing Maps on MapScreen and Google Places Autocomplete for location based search. This UI build using tailwindcss and react native components.
 
 ## 📱 Snapshot
 
